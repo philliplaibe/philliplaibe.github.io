@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<a href=blackjack.html">lBlackjack</a>
+<a href="blackjack.html">lBlackjack</a>
 
 <!-- You can use the [editor on GitHub](https://github.com/philliplaibe/philliplaibe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
